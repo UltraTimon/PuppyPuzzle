@@ -1,0 +1,18 @@
+li{
+    background-color: orange;
+    display: grid;
+}
+
+h1{
+    border: 2px solid red;
+}
+p{
+    color: red;
+}
+#outside{
+    background-color: orange;
+    height: auto;
+}
+img{
+    max-width:100%;
+}
